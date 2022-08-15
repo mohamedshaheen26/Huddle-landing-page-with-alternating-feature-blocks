@@ -177,7 +177,7 @@ header .landing p {
 /********************** Start Main **********************/
 main {
   position: relative;
-  padding: 100px 100px 300px;
+  padding: 150px 100px 300px;
   display: flex;
   flex-direction: column;
 }
@@ -192,7 +192,7 @@ main .card {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   box-shadow: var(--main-box-shadow);
   border-radius: 15px;
   padding: 50px 30px 50px 135px;
